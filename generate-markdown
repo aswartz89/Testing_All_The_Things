@@ -1,0 +1,4 @@
+#!/bin/ksh
+find . -name "*.png" | while read -r line
+do echo "![${line}](/${line}?raw=true)"
+done > README.md
