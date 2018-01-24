@@ -1,1 +1,1 @@
-![./Example%202.png](./Example%202.png?raw=true)
+![./Example 2.png](./Example%202.png?raw=true)
